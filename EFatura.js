@@ -8,7 +8,7 @@ sap.ui.define([
 	"use strict";
 
 	var EFatura = Agent.extend("model.yf.EFatura", {
-
+sgsdsdfsdfsfdsdg
 		constructor: function(sId) {
 			
 			Agent.apply(this, arguments);
